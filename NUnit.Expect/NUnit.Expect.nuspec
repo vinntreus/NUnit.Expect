@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/vinntreus/NUnit.Expect</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>    
+    <copyright>Copyright 2012 Daniel Vinntreus</copyright>
+    <tags>TDD BDD NUnit Jasmine Test UnitTest Spec</tags>
+    <dependencies>
+      <dependency id="NUnit" version="2.6.0.12054" />
+    </dependencies>
+  </metadata>
+</package>
