@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NUnit.Expect")]
-[assembly: AssemblyDescription("Add Expect (as Jasmine) behavior as an extension to NUnit to use instead of Assert.X")]
+[assembly: AssemblyDescription("Add Expect (as Jasmine) behavior to NUnit to use instead of Assert.X")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Daniel Vinntreus")]
 [assembly: AssemblyProduct("NUnit.Expect")]

@@ -42,7 +42,9 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Expect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Spec.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
