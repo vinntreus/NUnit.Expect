@@ -5,10 +5,9 @@ Add Expect behavior as to NUnit to use instead of Assert.X
 ## Why
 After using [Jasmine](https://github.com/pivotal/jasmine), I got really fond of the assertion syntax and found it more expressive and at the same time more compact than what exists in NUnit.
 
-## Example
+## Examples
 
-<pre><code>
-public class Descriptions : Spec
+<pre><code>public class Descriptions : Spec
 {
   [Test]
   public void Expect_OnePlusOne_ToBeTwo()
