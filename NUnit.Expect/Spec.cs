@@ -1,8 +1,6 @@
-using System.Linq;
-using System.Collections.Generic;
-using NUnit.Framework;
-
-namespace NUnit.Expect
+// ReSharper disable CheckNamespace
+namespace NUnit.Framework
+// ReSharper restore CheckNamespace
 {
     /// <summary>
     /// Inherit this class to enable Expects

@@ -1,6 +1,6 @@
-﻿using NUnit.Framework;
-
-namespace NUnit.Expect
+﻿// ReSharper disable CheckNamespace
+namespace NUnit.Framework
+// ReSharper restore CheckNamespace
 {
     /// <summary></summary>
     public class Expect<T>
